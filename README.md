@@ -1,2 +1,2 @@
 # TubeTopics
-Get topics from videos
+Get time-stamped topics and entities from a web video
